@@ -8,3 +8,5 @@ public class Boat {
         this.covCols = coveredColumns;
     }
 }
+
+//comment
